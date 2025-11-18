@@ -39,11 +39,3 @@ All data stays local in the browser. No backend, no external server.
 3. Enable "Developer mode"
 4. Click "Load unpacked" 
 5. Select the `dist/` folder
-
-
-1. Open chrome://extensions in Chrome
-2. Turn on Developer mode
-3. Click Load unpacked
-4. Select the extension/dist folder
-
-Select the extension/dist folder
