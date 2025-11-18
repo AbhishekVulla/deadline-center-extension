@@ -23,6 +23,8 @@ Deadlines are scattered across eDimension, Gradescope and random chats. Students
 - Export selected deadlines to `.ics` and import into Google Calendar
 - Add custom deadlines manually
 
+<img width="761" height="1600" alt="2" src="https://github.com/user-attachments/assets/23645ddc-bb03-4ea0-a8c4-fdff1b63e3b6" />
+
 All data stays local in the browser. No backend, no external server.
 
 ## Tech stack
