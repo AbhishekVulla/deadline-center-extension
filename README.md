@@ -5,7 +5,8 @@ Chrome extension that unifies SUTD deadlines from eDimension and Gradescope
 
 Chrome extension for SUTD students that pulls deadlines from **eDimension** and **Gradescope** into one clean dashboard, with calendar export.
 
-![Main view](deadline-center-extension/main-view.png)
+<img width="1235" height="1255" alt="1" src="https://github.com/user-attachments/assets/f228adda-b1b1-419f-9aac-0df6507067c0" />
+
 
 ## Problem
 
