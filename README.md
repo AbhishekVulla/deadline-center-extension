@@ -32,14 +32,14 @@ All data stays local in the browser. No backend, no external server.
 - Day.js for dates
 - Chrome Storage API
 
-## Install for development
+## Installation For Users:
 
-```bash
-cd extension
-npm install
-npm run build
-```
-Then:
+1. Extract the `dist/` folder
+2. Open `chrome://extensions/` in Chrome
+3. Enable "Developer mode"
+4. Click "Load unpacked" 
+5. Select the `dist/` folder
+
 
 1. Open chrome://extensions in Chrome
 2. Turn on Developer mode
