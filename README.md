@@ -7,6 +7,13 @@ Chrome extension for SUTD students that pulls deadlines from **eDimension** and 
 
 <img width="1235" height="1255" alt="1" src="https://github.com/user-attachments/assets/f228adda-b1b1-419f-9aac-0df6507067c0" />
 
+## Installation For Users:
+
+1. Extract the `dist/` folder
+2. Open `chrome://extensions/` in Chrome
+3. Enable "Developer mode"
+4. Click "Load unpacked" 
+5. Select the `dist/` folder
 
 ## Problem
 
@@ -34,11 +41,3 @@ All data stays local in the browser. No backend, no external server.
 - Vite build
 - Day.js for dates
 - Chrome Storage API
-
-## Installation For Users:
-
-1. Extract the `dist/` folder
-2. Open `chrome://extensions/` in Chrome
-3. Enable "Developer mode"
-4. Click "Load unpacked" 
-5. Select the `dist/` folder
